@@ -8,7 +8,7 @@ A display to show current Youtube Channel Subscriber number.
 - Breadboard
 - Jumper wires
 - 9V Power Adapter
-# Softwares to install
+# Softwares to Install
 - CH340C Driver
 - Arduino IDE
 # Dependencies
