@@ -18,3 +18,8 @@ A display to show current Youtube Channel Subscriber number.
 - Arduino YouTube API
 - Arduino Json
 - Get Api Key by Enable Youtube Data API in Google Cloud
+# References
+- [YouTube Subscriber Counter (Under 10K)](https://www.instructables.com/YouTube-Subscriber-Counter-With-ESP8266/)
+- [Interface OLED Graphic Display Module with Arduino](https://lastminuteengineers.com/oled-display-arduino-tutorial/)
+- [ESP8266 0.96 inch OLED Display with Arduino IDE](https://randomnerdtutorials.com/esp8266-0-96-inch-oled-display-with-arduino-ide/)
+- [Display Images in OLED Display](https://diyusthad.com/2019/02/display-images-in-oled-display.html)
