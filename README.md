@@ -8,3 +8,12 @@ A display to show current Youtube Channel Subscriber number.
 - Breadboard
 - Jumper wires
 - 9V Power Adapter
+# Softwares to install
+- CH340C Driver
+- Arduino IDE
+# Dependencies
+- Adafruit_SSD1306
+- Adafruit_GFX
+- Arduino YouTube API
+- Arduino Json
+- Get Api Key by Enable Youtube Data API in Google Cloud
