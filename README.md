@@ -24,3 +24,4 @@ A display to show current Youtube Channel Subscriber number.
 - [ESP8266 0.96 inch OLED Display with Arduino IDE](https://randomnerdtutorials.com/esp8266-0-96-inch-oled-display-with-arduino-ide/)
 - [Display Images in OLED Display](https://diyusthad.com/2019/02/display-images-in-oled-display.html)
 - [ESP8266 Arduino Doc](https://github.com/esp8266/Arduino/blob/master/doc/libraries.rst#i2c-wire-library)
+- [YouTube logo](https://pixabay.com/illustrations/youtube-red-social-icon-play-1495277/)
