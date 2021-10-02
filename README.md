@@ -1,6 +1,9 @@
 # yt-subscriber-count
 ![result](result.jpg)
 A display to show current Youtube Channel Subscriber number.
+# Step by Step Guide and Demo Video (Video Spoken in Mandarin)
+[![YouTube Subscriber counter building guide and demo](http://img.youtube.com/vi/5rJcHSOsQso/0.jpg)](http://www.youtube.com/watch?v=5rJcHSOsQso)
+
 # Hardwares
 - ESP-01S (ESP8266)
 - ESP-01 USB Programmer with CH340C
